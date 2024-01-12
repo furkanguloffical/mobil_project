@@ -1,8 +1,3 @@
-**Furkan gül**
-**221216036**
-[Supervisor: Keyvan Arasteh](https://github.com/keyvanarasteh/)
-
-
 ## Screenshots
 
 ![Simulator Screenshot - iPhone 15 Pro - 2023-11-26 at 22 46 51](https://github.com/furkanguloffical/mobil_project/assets/116071374/0b029663-592d-4752-8f03-e470ffef1db4)
